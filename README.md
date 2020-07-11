@@ -14,7 +14,7 @@ prize of Rs.10,000 in Indore, Madhya Pradesh.
 - Top 20 teams in Bhopal Smart City Hackathon and got incubation at BNEST-Bhopal.
 - Selected for Advance Deep Reinforcement Nanodegree from Udacity sponsored by Facebook
 through Facebook Developer Circles.
-- Intel, Facebook, and NutanixScholarship recipient out of thousands of participants.
+- Intel, Facebook, and Nutanix Scholarship recipient out of thousands of participants.
 - District topper (3rd rank) in CBSE AISSCE 2017 examination, India.
 - Appreciation and cash prizes of Rs.5000 and Rs.7000 from CBSE for academic excellence in
 High School and Intermediate.
