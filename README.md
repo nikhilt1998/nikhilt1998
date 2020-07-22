@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on solving the most exciting and interesting problems using Machine Learning and Software development techniques.
+- 🔭 I’m currently working on solving the most exciting and interesting problems using Machine Learning and Software development skills.
 - 👯 I’m looking to collaborate on anything which is exciting and challenging.
-- 💬 Ask me about machine learning, deep learning and Django.
+- 💬 Ask me about Python, Machine learning, Deep learning and Django.
 
 #### AWARDS/ACCOMPLISHMENTS
 
