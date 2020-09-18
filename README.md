@@ -18,7 +18,6 @@ through Facebook Developer Circles.
 - District topper (3rd rank) in CBSE AISSCE 2017 examination, India.
 - Appreciation and cash prizes of Rs.5000 and Rs.7000 from CBSE for academic excellence in
 High School and Intermediate.
-- CodeChef : 3 star (1798 max rating till now).
 - Youngest research scholar at IEEE IACC 2019.
 - Open source contributor.
 - ACM Student Member.
