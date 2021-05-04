@@ -8,6 +8,7 @@
 
 #### AWARDS/ACCOMPLISHMENTS
 
+- Research Publications -IEEE IACC'19, IEEE ComPE'20, ACM IRISS'20
 - Winner- HackerEarth Deep Learning challenge and won a prize of $75 USD.
 - Team Leader in VoidHacks() Hackathon, Indore in the field of Machine Learning and won a cash
 prize of Rs.10,000 in Indore, Madhya Pradesh.
