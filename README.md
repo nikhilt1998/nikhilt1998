@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on solving the most exciting and interesting problems using Machine Learning and Software development skills.
+- 🔭 I’m currently working on solving exciting and interesting problems using Machine Learning and Software development.
 - 👯 I’m looking to collaborate on anything which is exciting and challenging.
-- 💬 Ask me about Python, Machine learning, Deep learning and Django.
+- 💬 Ask me about Python, Machine learning, Deep learning.
 
 #### AWARDS/ACCOMPLISHMENTS
 
@@ -21,7 +21,6 @@ through Facebook Developer Circles.
 High School and Intermediate.
 - Youngest research scholar at IEEE IACC 2019.
 - Open source contributor.
-- ACM Student Member.
 
 
 [My Portfolio](https://nikhilt1998.github.io/#)
